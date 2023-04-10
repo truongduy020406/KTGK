@@ -21,7 +21,7 @@ namespace QLTL_VOTRUONGDUY.Pages.TaiLieu
         }
 
         [BindProperty]
-        public TaiLieu TaiLieu { get; set; } = default!;
+        public QLTL_VOTRUONGDUY.Model.TaiLieu TaiLieu { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LaptrinhC#\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\KTGK\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj": {}
   },
   "projects": {
-    "D:\\LaptrinhC#\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj": {
+    "C:\\Users\\Admin\\Desktop\\KTGK\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LaptrinhC#\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\KTGK\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj",
         "projectName": "QLTL_VOTRUONGDUY",
-        "projectPath": "D:\\LaptrinhC#\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\KTGK\\QLTL_VOTRUONGDUY\\QLTL_VOTRUONGDUY.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\LaptrinhC#\\QLTL_VOTRUONGDUY\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\KTGK\\QLTL_VOTRUONGDUY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

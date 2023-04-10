@@ -25,7 +25,7 @@ namespace QLTL_VOTRUONGDUY.Pages.TaiLieu
         }
 
         [BindProperty]
-        public TaiLieu TaiLieu { get; set; } = default!;
+        public QLTL_VOTRUONGDUY.Model.TaiLieu TaiLieu { get; set; } = default!;
         
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD

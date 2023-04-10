@@ -19,7 +19,7 @@ namespace QLTL_VOTRUONGDUY.Pages.TaiLieu
             _context = context;
         }
 
-        public IList<TaiLieu> TaiLieu { get;set; } = default!;
+        public IList<QLTL_VOTRUONGDUY.Model.TaiLieu> TaiLieu { get;set; } = default!;
 
         public async Task OnGetAsync()
         {
